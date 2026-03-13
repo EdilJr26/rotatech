@@ -1,0 +1,33 @@
+{
+  "name": "RotaTech — Otimizador de Visitas",
+  "short_name": "RotaTech",
+  "description": "Gerencie rotas de visitas técnicas e otimize o trajeto do dia",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080b11",
+  "theme_color": "#080b11",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "shortcuts": [
+    {
+      "name": "Ver Técnicos",
+      "url": "./index.html",
+      "description": "Abrir lista de técnicos"
+    }
+  ]
+}
